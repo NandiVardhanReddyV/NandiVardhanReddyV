@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vogulam Nandi Vardhan Reddy!
 
-🚀 **Aspiring AI & ML Engineer | Python | AWS | Web Technologies**
+🚀 **Aspiring AI & ML Engineer | Python | Java | AWS | Web Technologies**
 
 I am a **Computer Science Engineering graduate (2024)** passionate about **Machine Learning, Deep Learning, Cloud Computing, and Web Development**. I enjoy building intelligent systems, optimizing cloud infrastructure, and solving real-world problems using AI.
 
