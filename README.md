@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vogulam Nandi Vardhan Reddy!
 
-🚀 **Aspiring AI & ML Engineer | Python | Java | AWS | Web Technologies**
+🚀 **Aspiring AI & ML Engineer | Python | Java | JavaScript | SQL |NoQSL| AWS | Web Technologies**
 
 I am a **Computer Science Engineering graduate (2024)** passionate about **Machine Learning, Deep Learning, Cloud Computing, and Web Development**. I enjoy building intelligent systems, optimizing cloud infrastructure, and solving real-world problems using AI.
 
@@ -37,11 +37,11 @@ I am a **Computer Science Engineering graduate (2024)** passionate about **Machi
 ---
 
 ## 📌 Projects
-
-🔹 **Crop Yield Prediction & Remedies Recommendation** - ML & DL-based Flask web app.
-🔹 **Lung Cancer Detection** - Deep learning project for lung nodule classification.
+🔹 **Bank Management System** - Full stack web application with FastAPI,React for Frontend,PostgreSQL,OAuth 2.0,JWT Authentication.
+🔹 **Web Automation Tool** - Python- Selenium - WebScraping web app .
 🔹 **Sentiment Analysis** - NLP-based Amazon reviews sentiment analysis.
-
+🔹 **Crop Yield Prediction & Remedies Recommendation** - ML & DL-based Flask web app.
+🔹 **Lung Cancer Detection** - Deep learning project for lung nodule classification as benign(Non-Cancerous) or malignant(Cancerous).
 📌 Check out my projects [here](https://github.com/NandiVardhanReddyV)!
 
 ---
