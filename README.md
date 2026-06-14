@@ -1,4 +1,4 @@
-![Vogulam Nandi Vardhan Reddy](https://avatars.githubusercontent.com/u/your-github-username?v=4)
+![Vogulam Nandi Vardhan Reddy](https://avatars.githubusercontent.com/u/NandiVardhanReddyV?v=4)
 
 # 👋 Hi, I'm Vogulam Nandi Vardhan Reddy!
 
